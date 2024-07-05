@@ -96,7 +96,7 @@ Mary uses `rclone` to backup the shared drive once a month from remote to an AWS
 		- Box: UMN's Box Secure Storage that is compliant with its IRB standards for storing private, restricted data. This is especially used by those storing interview data.
 		- Esri Geodtabase
 	
-
+Data housed on Mary's computer additionally gets backed up on-site to a Synology server and remotely to iCloud.
 
 <a id="tools-we-develop-and-maintain"></a>
 ## Tools we develop and maintain
