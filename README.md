@@ -108,7 +108,9 @@ The MSP LTER frequently has GIS workflows that are too taxing for an individual'
 
 A description about how to set up the [MSP RStudio server](https://msplterstudio.org) is documented as a DataBits article. 
 
-The server is paused during less busy times to save money.  
+The server is paused during less busy times to save money.
+
+Eric Straavaldsen (straa007@umn.edu) with the UMN Cloud Services team can be contacted for ongoing support around AWS services at the University of Minnesota.
 
 
 <a id="r-shiny"></a>
